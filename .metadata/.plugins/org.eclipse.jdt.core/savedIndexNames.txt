@@ -1,5 +1,4 @@
 INDEX VERSION 1.126+/Users/cliffsun91/Android Dev/workspace/SimplyJotAndroid/.metadata/.plugins/org.eclipse.jdt.core
 3038203477.index
 160109462.index
-2392229242.index
 3626359659.index
